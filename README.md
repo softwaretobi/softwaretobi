@@ -1,4 +1,4 @@
-## 🍜 ☆ Hey i'm Tobi !
+## 🍜 ☆ Hey i'm Juzo !
 
 ![Alt Text](https://i.imgur.com/8Nghoz5.gif)
 
