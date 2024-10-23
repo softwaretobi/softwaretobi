@@ -5,12 +5,12 @@
 -----
 
 ### 📋 ☆ About me :
-Hi, I'm Tobi, a programmer and cybersecurity enthusiast. I’m passionate about building efficient code and exploring security challenges. Check out my projects and join me in creating secure, high-performance solutions!
+Hi, I'm Juzo, a programmer and cybersecurity enthusiast. I’m passionate about building efficient code and exploring security challenges. Check out my projects and join me in creating secure, high-performance solutions!
 
 -----
 
 ### 📈 ☆ Github stats : 
-![Tobi Github Stats](https://github-readme-stats.vercel.app/api?username=softwaretobi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&text_color=c0deff&title_color=006FEE&icons_color=006FEE&locale=en&custom_title=Tobi%20Stats)
+![Juzo Github Stats](https://github-readme-stats.vercel.app/api?username=softwaretobi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&text_color=c0deff&title_color=006FEE&icons_color=006FEE&locale=en&custom_title=Tobi%20Stats)
 
 -----
 
